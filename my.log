@@ -1,0 +1,17 @@
+2019-06-20 15:13:43.114  INFO 15060 --- [main] com.ensurlink.demo.DemoApplication       : Starting DemoApplication on abc-PC with PID 15060 (D:\Work\workspaceLayUI\mdp\target\classes started by Administrator in D:\Work\workspaceLayUI\mdp)
+2019-06-20 15:13:43.118  INFO 15060 --- [main] com.ensurlink.demo.DemoApplication       : No active profile set, falling back to default profiles: default
+2019-06-20 15:13:44.414  INFO 15060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-06-20 15:13:44.449  INFO 15060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-06-20 15:13:44.449  INFO 15060 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-20 15:13:44.561  INFO 15060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-06-20 15:13:44.561  INFO 15060 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1390 ms
+2019-06-20 15:13:45.224  INFO 15060 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-20 15:13:45.399  INFO 15060 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-06-20 15:13:45.456  INFO 15060 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2019-06-20 15:13:45.578  INFO 15060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-06-20 15:13:45.582  INFO 15060 --- [main] com.ensurlink.demo.DemoApplication       : Started DemoApplication in 2.762 seconds (JVM running for 3.246)
+2019-06-20 15:13:51.982  INFO 15060 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-20 15:13:51.983  INFO 15060 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-06-20 15:13:51.992  INFO 15060 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2019-06-20 15:13:56.654  INFO 15060 --- [http-nio-8080-exec-3] com.ensurlink.demo.service.LoginService  : 生成的验证码:rYPT
+2019-06-20 15:14:01.114  INFO 15060 --- [http-nio-8080-exec-3] com.ensurlink.demo.service.LoginService  : 生成的验证码:yasB
